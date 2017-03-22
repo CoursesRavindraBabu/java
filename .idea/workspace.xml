@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7147651-cce8-4f38-bbd6-3478c7e245b6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Files/Question1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Files/Question2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Files/Question3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Files/Question4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Files/input1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Files/input2.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Files/Question4.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Assignments.iws" />
@@ -97,7 +92,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Question3.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Question3.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Files/Question3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -105,16 +100,6 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Question4.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Files/Question4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -898,7 +883,7 @@
       <workItem from="1484804091480" duration="311000" />
       <workItem from="1484805082856" duration="4127000" />
       <workItem from="1490172754151" duration="8826000" />
-      <workItem from="1490184399491" duration="598000" />
+      <workItem from="1490184399491" duration="627000" />
     </task>
     <task id="LOCAL-00001" summary="Collection added&#10;">
       <created>1490173726515</created>
@@ -914,11 +899,18 @@
       <option name="project" value="LOCAL" />
       <updated>1490180331738</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Files Solutions added">
+      <created>1490185018232</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1490185018232</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13862000" />
+    <option name="totallyTimeSpent" value="13891000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -931,7 +923,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="-3" width="1317" height="771" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -948,7 +940,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3105543" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3105543" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -981,7 +973,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Collection added&#10;" />
     <MESSAGE value="Collection added&#10;Till Question8 solution updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Collection added&#10;Till Question8 solution updated" />
+    <MESSAGE value="Files Solutions added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Files Solutions added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
