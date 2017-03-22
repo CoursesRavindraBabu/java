@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7147651-cce8-4f38-bbd6-3478c7e245b6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Collections/Question1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Collections/Question2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Collections/Question3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Collections/Question4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Collections/Question5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Collections/Question6.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Collections/Question7.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Collections/Question8.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Assignments.iws" />
@@ -38,79 +42,111 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="findMax.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Strings/findMax.java">
+      <file leaf-file-name="Question2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Collections/Question2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reverseString.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Strings/reverseString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReverseWords.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Strings/ReverseWords.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Rotation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Strings/Rotation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Strings/StringSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Question1.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Collections/Question1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+            <state relative-caret-position="377">
+              <caret line="51" column="5" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="51" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1014#1023#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HashSet.class" pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/java-1.7.0-openjdk-amd64/jre/lib/rt.jar!/java/util/HashSet.class">
+      <file leaf-file-name="Question3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Collections/Question3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="107">
+              <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#629#638#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question4.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Collections/Question4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HashMap.class" pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-1.7.0-openjdk-amd64/jre/lib/rt.jar!/java/util/HashMap.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="143">
-              <caret line="61" column="19" lean-forward="false" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+              <caret line="149" column="19" lean-forward="false" selection-start-line="149" selection-start-column="19" selection-end-line="149" selection-end-column="19" />
               <folding>
-                <element signature="e#1642#1643#0" expanded="true" />
-                <element signature="e#1697#1698#0" expanded="true" />
+                <element signature="e#4593#4594#0" expanded="true" />
+                <element signature="e#4642#4643#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question5.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Collections/Question5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="137">
+              <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question6.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Collections/Question6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question7.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Collections/Question7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="36" column="19" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question8.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Collections/Question8.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question4.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Collections/Question4.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TreeSet.class" pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-1.7.0-openjdk-amd64/jre/lib/rt.jar!/java/util/TreeSet.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="151" column="13" lean-forward="false" selection-start-line="151" selection-start-column="13" selection-end-line="151" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -175,6 +211,13 @@
         <option value="$PROJECT_DIR$/Strings/StringSort.java" />
         <option value="$PROJECT_DIR$/Collections/Questio1.java" />
         <option value="$PROJECT_DIR$/Collections/Question1.java" />
+        <option value="$PROJECT_DIR$/Collections/Question2.java" />
+        <option value="$PROJECT_DIR$/Collections/Question3.java" />
+        <option value="$PROJECT_DIR$/Collections/Question4.java" />
+        <option value="$PROJECT_DIR$/Collections/Question5.java" />
+        <option value="$PROJECT_DIR$/Collections/Question6.java" />
+        <option value="$PROJECT_DIR$/Collections/Question7.java" />
+        <option value="$PROJECT_DIR$/Collections/Question8.java" />
       </list>
     </option>
   </component>
@@ -252,90 +295,95 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="ignore_missing_gitignore" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Question1">
-    <configuration default="false" name="SwapNumbersWithOutThirdVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="controlStatements.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="controlStatements.SwapNumbersWithOutThirdVariable" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Assignments" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Duplicate" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Assignments" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="DeleteDuplicateCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Strings.DeleteDuplicateCharacter" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Assignments" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="DuplicateCharacteresInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Strings.DuplicateCharacteresInString" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Assignments" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Question1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Question8">
+    <configuration default="false" name="Question4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Collections.Question1" />
+      <option name="MAIN_CLASS_NAME" value="Collections.Question4" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Assignments" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Question5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Collections.Question5" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Assignments" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Question6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Collections.Question6" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Assignments" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Question7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Collections.Question7" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Assignments" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Question8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Collections.Question8" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -807,19 +855,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.SwapNumbersWithOutThirdVariable" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Duplicate" />
-      <item index="2" class="java.lang.String" itemvalue="Application.DeleteDuplicateCharacter" />
-      <item index="3" class="java.lang.String" itemvalue="Application.DuplicateCharacteresInString" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Question1" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Question4" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Question5" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Question6" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Question7" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Question8" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Question1" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DuplicateCharacteresInString" />
-        <item index="2" class="java.lang.String" itemvalue="Application.DeleteDuplicateCharacter" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Duplicate" />
-        <item index="4" class="java.lang.String" itemvalue="Application.SwapNumbersWithOutThirdVariable" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Question8" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Question7" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Question6" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Question5" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Question4" />
       </list>
     </recent_temporary>
   </component>
@@ -840,12 +888,20 @@
       <updated>1484804081994</updated>
       <workItem from="1484804091480" duration="311000" />
       <workItem from="1484805082856" duration="4127000" />
-      <workItem from="1490172754151" duration="944000" />
+      <workItem from="1490172754151" duration="6148000" />
     </task>
+    <task id="LOCAL-00001" summary="Collection added&#10;">
+      <created>1490173726515</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1490173726515</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5382000" />
+    <option name="totallyTimeSpent" value="10586000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -869,7 +925,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992035" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -905,6 +961,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Collection added&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collection added&#10;" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -914,83 +974,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/arrays/SearchElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arrays/ThirdSmallest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controlStatements/AddNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controlStatements/ArmstrongNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arrays/FindMissingNumberInSortedArrayExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arrays/MyInsertionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arrays/Duplicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arrays/FindLargestSmallestNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="15" lean-forward="false" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arrays/FindMissingNumberInSortedArrayExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arrays/MyInsertionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arrays/OddOccurance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/arrays/ReverseArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
@@ -1240,6 +1223,106 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.7.0-openjdk-amd64/jre/lib/rt.jar!/java/util/PriorityQueue.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="e#4011#4012#0" expanded="true" />
+            <element signature="e#4047#4048#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Question2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="51" column="5" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="51" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1014#1023#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.7.0-openjdk-amd64/jre/lib/rt.jar!/java/util/TreeSet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="151" column="13" lean-forward="false" selection-start-line="151" selection-start-column="13" selection-end-line="151" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Question4.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Question6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.7.0-openjdk-amd64/jre/lib/rt.jar!/java/util/HashMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="149" column="19" lean-forward="false" selection-start-line="149" selection-start-column="19" selection-end-line="149" selection-end-column="19" />
+          <folding>
+            <element signature="e#4593#4594#0" expanded="true" />
+            <element signature="e#4642#4643#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Question4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Question3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#629#638#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Question7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="36" column="19" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Question5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Question8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
