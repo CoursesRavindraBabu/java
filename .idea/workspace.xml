@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7147651-cce8-4f38-bbd6-3478c7e245b6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Operators/Question1/Question1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Operators/Question2/Question2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Operators/Question3/Question3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Operators/Question4/Question4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Operators/Question5/Question5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Operators/Question6/Question6.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Operators/Question7/Question7.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Operators/Question8/Question8.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controlStatements/Assignment4/Question1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controlStatements/Assignment4/Question10.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controlStatements/Assignment4/Question2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controlStatements/Assignment4/Question3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controlStatements/Assignment4/Question4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controlStatements/Assignment4/Question5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controlStatements/Assignment4/Question6.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controlStatements/Assignment4/Question7.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controlStatements/Assignment4/Question8.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controlStatements/Assignment4/Question9.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Assignments.iws" />
@@ -43,78 +45,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Queestion9.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Introduction/Question9/Queestion9.java">
+      <file leaf-file-name="Question1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controlStatements/Assignment4/Question1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Question1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Operators/Question1/Question1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="4" selection-end-column="35" />
+              <caret line="0" column="37" lean-forward="false" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Question2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Operators/Question2/Question2.java">
+        <entry file="file://$PROJECT_DIR$/controlStatements/Assignment4/Question2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            <state relative-caret-position="105">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Question3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Operators/Question3/Question3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Question4.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Operators/Question4/Question4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="36" lean-forward="false" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Question5.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Operators/Question5/Question5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Question6.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Operators/Question6/Question6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Question7.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Operators/Question7/Question7.java">
+        <entry file="file://$PROJECT_DIR$/controlStatements/Assignment4/Question3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
               <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
@@ -123,11 +75,71 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Question8.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Operators/Question8/Question8.java">
+      <file leaf-file-name="Question4.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controlStatements/Assignment4/Question4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="27" />
+            <state relative-caret-position="15">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question5.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controlStatements/Assignment4/Question5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question6.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controlStatements/Assignment4/Question6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="556">
+              <caret line="39" column="22" lean-forward="true" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question7.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controlStatements/Assignment4/Question7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question8.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controlStatements/Assignment4/Question8.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question9.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controlStatements/Assignment4/Question9.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question10.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/controlStatements/Assignment4/Question10.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="53" lean-forward="true" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -153,27 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Exceptions/Question1.java" />
-        <option value="$PROJECT_DIR$/Exceptions/Question2.java" />
-        <option value="$PROJECT_DIR$/Introduction/Question1.java" />
-        <option value="$PROJECT_DIR$/Introduction/Question2.java" />
-        <option value="$PROJECT_DIR$/Introduction/Question1/Exercise_01_01.java" />
-        <option value="$PROJECT_DIR$/Introduction/Question1/Question1.java" />
-        <option value="$PROJECT_DIR$/Introduction/Question2/Exercise_01_02.java" />
-        <option value="$PROJECT_DIR$/Introduction/Question2/Question2.java" />
-        <option value="$PROJECT_DIR$/Introduction/Question3/Exercise_01_03.java" />
-        <option value="$PROJECT_DIR$/Introduction/Exercise_01_04/Exercise_01_04.java" />
-        <option value="$PROJECT_DIR$/Introduction/Exercise_01_04/Question3.java" />
-        <option value="$PROJECT_DIR$/Introduction/Question3/Question3.java" />
-        <option value="$PROJECT_DIR$/Introduction/Question4/Exercise_01_06.java" />
-        <option value="$PROJECT_DIR$/Introduction/Question4/Question4.java" />
-        <option value="$PROJECT_DIR$/Introduction/Exercise_01_08/Exercise_01_08.java" />
-        <option value="$PROJECT_DIR$/Introduction/Exercise_01_08/Question5.java" />
-        <option value="$PROJECT_DIR$/Introduction/Question5/Question5.java" />
-        <option value="$PROJECT_DIR$/Introduction/Exercise_01_09/Exercise_01_09.java" />
-        <option value="$PROJECT_DIR$/Introduction/Exercise_01_09/Question6.java" />
-        <option value="$PROJECT_DIR$/Introduction/Question6/Question6.java" />
-        <option value="$PROJECT_DIR$/Introduction/Exercise_01_10/Exercise_01_10.java" />
         <option value="$PROJECT_DIR$/Introduction/Exercise_01_10/Question7.java" />
         <option value="$PROJECT_DIR$/Introduction/Question7/Question7.java" />
         <option value="$PROJECT_DIR$/Introduction/Exercise_01_12/Exercise_01_12.java" />
@@ -204,6 +195,27 @@
         <option value="$PROJECT_DIR$/Operators/Exercise_02_18/Exercise_02_18.java" />
         <option value="$PROJECT_DIR$/Operators/Exercise_02_18/Question8.java" />
         <option value="$PROJECT_DIR$/Operators/Question8/Question8.java" />
+        <option value="$PROJECT_DIR$/controlStatements/Assignment4/Question1/Exercise_03_04.java" />
+        <option value="$PROJECT_DIR$/controlStatements/Assignment4/Question1/Question1.java" />
+        <option value="$PROJECT_DIR$/controlStatements/Assignment4/Question1.java" />
+        <option value="$PROJECT_DIR$/controlStatements/Assignment4/Exercise_03_05.java" />
+        <option value="$PROJECT_DIR$/controlStatements/Assignment4/Question2.java" />
+        <option value="$PROJECT_DIR$/controlStatements/Assignment4/Exercise_03_08.java" />
+        <option value="$PROJECT_DIR$/controlStatements/Assignment4/Question3.java" />
+        <option value="$PROJECT_DIR$/controlStatements/Assignment4/Exercise_03_11.java" />
+        <option value="$PROJECT_DIR$/controlStatements/Assignment4/Question4.java" />
+        <option value="$PROJECT_DIR$/controlStatements/Assignment4/Exercise_05_01.java" />
+        <option value="$PROJECT_DIR$/controlStatements/Assignment4/Question5.java" />
+        <option value="$PROJECT_DIR$/controlStatements/Assignment4/Exercise_05_08.java" />
+        <option value="$PROJECT_DIR$/controlStatements/Assignment4/Question6.java" />
+        <option value="$PROJECT_DIR$/controlStatements/Assignment4/Exercise_05_09.java" />
+        <option value="$PROJECT_DIR$/controlStatements/Assignment4/Question7.java" />
+        <option value="$PROJECT_DIR$/controlStatements/Assignment4/Exercise_05_10.java" />
+        <option value="$PROJECT_DIR$/controlStatements/Assignment4/Question8.java" />
+        <option value="$PROJECT_DIR$/controlStatements/Assignment4/Exercise_05_13.java" />
+        <option value="$PROJECT_DIR$/controlStatements/Assignment4/Question9.java" />
+        <option value="$PROJECT_DIR$/controlStatements/Assignment4/Exercise_05_16.java" />
+        <option value="$PROJECT_DIR$/controlStatements/Assignment4/Question10.java" />
       </list>
     </option>
   </component>
@@ -247,164 +259,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Operators" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Question8" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Operators" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Question7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Operators" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Question6" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Operators" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Question5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Operators" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Question4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Operators" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Question3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Operators" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Question2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Operators" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Question1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exceptions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -426,7 +280,11 @@
     <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="controlStatements.Assignment4" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/controlStatements/Assignment4" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Introduction" />
     </key>
@@ -1014,7 +872,7 @@
       <workItem from="1490184399491" duration="3486000" />
       <workItem from="1490334951520" duration="1757000" />
       <workItem from="1490355215624" duration="3233000" />
-      <workItem from="1490372858772" duration="698000" />
+      <workItem from="1490372858772" duration="3215000" />
     </task>
     <task id="LOCAL-00001" summary="Collection added&#10;">
       <created>1490173726515</created>
@@ -1051,11 +909,18 @@
       <option name="project" value="LOCAL" />
       <updated>1490357129492</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Operators solutions added&#10;">
+      <created>1490373576252</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1490373576254</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22438000" />
+    <option name="totallyTimeSpent" value="24955000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1120,7 +985,8 @@
     <MESSAGE value="Collection added&#10;Till Question8 solution updated" />
     <MESSAGE value="Files Solutions added" />
     <MESSAGE value="Introduction Solutions added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Introduction Solutions added" />
+    <MESSAGE value="Operators solutions added&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Operators solutions added&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1131,68 +997,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Files/Question3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="27" column="50" lean-forward="false" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Files/Question4.java" />
-    <entry file="file://$PROJECT_DIR$/RegularExpressions/Question2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="33" lean-forward="false" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RegularExpressions/Question3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-1.7.0-openjdk-amd64/jre/lib/rt.jar!/java/lang/Integer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2880">
-          <caret line="201" column="0" lean-forward="false" selection-start-line="199" selection-start-column="3" selection-end-line="203" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/WrapperClasses.java" />
-    <entry file="file://$PROJECT_DIR$/Test/Sin.java" />
-    <entry file="jar:///usr/lib/jvm/java-1.7.0-openjdk-amd64/jre/lib/rt.jar!/java/util/Scanner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="1088" column="5" lean-forward="true" selection-start-line="1088" selection-start-column="5" selection-end-line="1088" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-1.7.0-openjdk-amd64/jre/lib/rt.jar!/java/util/InputMismatchException.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exceptions/Question1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exceptions/Question2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exceptions/Question3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -1443,6 +1247,94 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controlStatements/Assignment4/Question1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="37" lean-forward="false" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controlStatements/Assignment4/Question2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controlStatements/Assignment4/Question2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controlStatements/Assignment4/Question3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controlStatements/Assignment4/Question4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controlStatements/Assignment4/Question5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controlStatements/Assignment4/Question6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="39" column="22" lean-forward="true" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controlStatements/Assignment4/Question7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controlStatements/Assignment4/Question8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controlStatements/Assignment4/Question9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controlStatements/Assignment4/Question10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="53" lean-forward="true" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
           <folding />
         </state>
       </provider>
