@@ -1,4 +1,4 @@
-package Collections;
+package Collections.Assignment1;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;
@@ -6,28 +6,13 @@ import java.util.PriorityQueue;
 /**
  * Created by satheesh on 22/3/17.
  */
-/*
-Find the Kth largest element from the given array using PriorityQueue class?
+/*Find the Kth smallest elment from the unsorted arrya using PriorityQueue class?
 Example :
 			Input : 10, 30, 50, 67, 34, 68
 				   k = 3
-		    output : 50
+		    output : 34
 * */
-public class Question2 {
-
-    public static class ReverseIntComparator implements Comparator<Integer> {
-        @Override
-        public int compare(Integer x, Integer y) {
-            if (x < y) {
-                return 1;
-            }
-            if (x > y) {
-                return -1;
-            }
-            return 0;
-        }
-    }
-
+public class Question3 {
     public static void main(String[] args) {
         int[] input = {10, 30, 50, 67, 34, 68};
         int k = 3;
@@ -36,8 +21,7 @@ public class Question2 {
     }
 
     private static int getTheKthLargestEle(int[] input, int k) {
-        Comparator<Integer> comparator = new ReverseIntComparator();
-        PriorityQueue<Integer> integerPriorityQueue = new PriorityQueue<Integer>(10, comparator);
+        PriorityQueue<Integer> integerPriorityQueue = new PriorityQueue<Integer>();
         if (input.length < k) {
             return -1;
         }

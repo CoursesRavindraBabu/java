@@ -1,4 +1,4 @@
-package Collections;
+package Collections.Assignment1;
 
 import java.io.BufferedReader;
 import java.util.HashSet;

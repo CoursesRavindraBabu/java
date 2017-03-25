@@ -1,4 +1,4 @@
-package Collections;
+package Collections.Assignment1;
 
 import java.util.TreeSet;
 
