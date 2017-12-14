@@ -99,7 +99,7 @@ public class MyInteger {
 	/** Return true if the value in this object 
 	*   is equal to the specified value */
 	public boolean equals(MyInteger myInteger) {
-		return myInteger.value == this.value;
+		return myInteger.getValue() == this.value;
 	}
 
 	/** converts an array of numeric
